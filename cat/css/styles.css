@@ -1,0 +1,46 @@
+p{
+	color: darkgreen;
+}
+
+p {
+	font-size: 25px;
+}
+
+p {
+	font-weight: bold;
+}
+p {
+	text-align: center;
+}
+
+h1 {
+	color: yellow;
+}
+
+h2 {
+
+color: blue;
+}
+body {
+	background-color: gold;
+}
+
+body.home {
+	background-color: lightblue;
+}
+
+body.contact {
+	background-color: lightcoral;
+}
+
+body.gallery {
+	background-color: lightgoldenrodyellow;
+}
+
+p {
+    text-decoration: underline;
+}
+
+blockquote {
+    font-style: oblique;
+}
